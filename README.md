@@ -22,3 +22,5 @@ This tool allows users to track the download statistics of individual releases i
   *  Enter the repository name (e.g., torvalds/linux) in the input field on the website.
   *  Click the Show Release Stats button.
   *  A list of all releases and their download counts will be displayed.
+
+![obrázok](https://github.com/user-attachments/assets/a587f8b1-83c9-42d0-aa42-e6baa984937b)
